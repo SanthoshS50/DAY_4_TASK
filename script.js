@@ -379,4 +379,3 @@ const palindromes2 = words2.filter(word => {
 console.log(palindromes2);
 
 /*-------------------------------------------------------------------------*/
-
